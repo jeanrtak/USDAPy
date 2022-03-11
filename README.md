@@ -19,4 +19,4 @@ Original report: FOODS TYPICALLY PURCHASED BY SUPPLEMENTAL NUTRITION ASSISTANCE 
 
 Major findings were that there were no major differences in the spending patterns of these households. Both types of households spend about 40 cents of every dollar of food expenditures on basic items such as meat, fruits, vegetables, milk, eggs and bread. The data were also used to drive improvements in the program, such as requiring retailers to provide more healthy food choices.
 
-Other analysis conducted as part of the article development looked at differences in consumption pattern based on age and poverty levelas well as the most popular commodities purchased in each region and for all regions.
+Other analysis conducted as part of the article development looked at differences in consumption pattern based on age and poverty level, as well as the most popular commodities purchased in each region and for all regions.
